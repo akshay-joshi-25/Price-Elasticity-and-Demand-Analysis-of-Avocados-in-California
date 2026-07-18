@@ -111,3 +111,9 @@ All five graphs show a **negative relationship** between price and volume sold, 
 ### Overall Interpretation
 
 All five graphs show a **negative relationship** between price and volume sold, indicating that demand generally decreases as prices increase. The relationship is **strongest in Sacramento**, **moderate in San Francisco**, and **weak in Las Vegas, Los Angeles, and San Diego**, suggesting that price sensitivity varies across the different markets.
+
+# 📈 Fitting an appropriate ML model to capture the relationship between Average Price and Total Volume
+
+## Conventional Avocados
+
+<img width="1180" height="638" alt="image" src="https://github.com/user-attachments/assets/c78371e4-2d79-40ae-831f-aa3e33dca9cc" />
