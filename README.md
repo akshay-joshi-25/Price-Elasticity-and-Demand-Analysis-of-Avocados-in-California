@@ -27,41 +27,41 @@ This report focuses on analyzing avocado pricing data for the year 2020.
 
 <img width="1072" height="638" alt="image" src="https://github.com/user-attachments/assets/bb868c4a-80cb-4479-b91e-2b723e58a920" />
 
-#### Las Vegas
+### Las Vegas
 
 * Shows a **weak negative relationship** between price and volume sold.
 * Sales generally decrease as prices increase, but the trend is scattered with a few outliers.
 
 **Business interpretation:** Demand is **relatively price-insensitive**, suggesting that factors other than price also influence sales.
 
-#### Los Angeles
+### Los Angeles
 
 * Displays a **moderate negative relationship**.
 * Higher prices are generally associated with lower sales volumes.
 
 **Business interpretation:** Consumers are **moderately price-sensitive**, so price increases are likely to reduce demand.
 
-#### Sacramento
+### Sacramento
 
 * Shows a **strong negative relationship**.
 * Sales volume decreases consistently as prices increase.
 
 **Business interpretation:** This market is **highly price-sensitive**, making competitive pricing essential.
 
-#### San Diego
+### San Diego
 
 * Exhibits a **moderate negative relationship** with noticeable variation.
 * Some scatter indicates that other factors also affect demand.
 
 **Business interpretation:** Price influences demand, but promotions and market conditions likely play an important role.
 
-#### San Francisco
+### San Francisco
 
 * Shows a **moderately strong negative relationship**.
 * Higher prices generally correspond to lower sales volumes.
 
 **Business interpretation:** Consumers are **fairly responsive to price changes**, so competitive pricing can help maintain sales.
 
-#### Overall Interpretation
+### Overall Interpretation
 
 All five graphs show a **negative relationship** between price and volume sold, indicating that demand generally decreases as prices increase. Price sensitivity is weakest in **Graph 1**, strongest in **Graph 3**, and moderate in **Graphs 2, 4, and 5**, suggesting that pricing strategies should be adjusted according to each market's responsiveness to price changes.
