@@ -266,3 +266,6 @@ Notes:
 * **If the average price increases from $1.70 to $1.80**, the total volume would
   * **decrease by 13.49%** in **Las Vegas**, **2.05%** in **Los Angeles**,**1.02%** in **San Diego** and **9.97%** in **San Francisco**,
   * but **increase by 2.90%** in **Sacramento**
+
+
+You can access the Python code used to conduct the price elasticity & demand analysis by clicking [here.](https://github.com/akshay-joshi-25/Price-Elasticity-and-Demand-Analysis-of-Avocados-in-California/blob/main/Price%20Elasticity%20and%20Demand%20Analysis.ipynb)
