@@ -117,3 +117,7 @@ All five graphs show a **negative relationship** between price and volume sold, 
 ## Conventional Avocados
 
 <img width="1180" height="638" alt="image" src="https://github.com/user-attachments/assets/c78371e4-2d79-40ae-831f-aa3e33dca9cc" />
+
+## Organic Avocados
+
+<img width="1180" height="638" alt="image" src="https://github.com/user-attachments/assets/1817bb8f-675a-4c1c-bacd-e96119a175a9" />
