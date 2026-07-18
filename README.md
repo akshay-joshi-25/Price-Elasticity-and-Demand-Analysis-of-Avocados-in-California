@@ -212,5 +212,10 @@ The markets exhibit varying degrees of price responsiveness:
 
 ## Conventional Avocados
 
+Notes:
+- Las Vegas (conventional) observed price range is [0.73, 1.14] - total volume for prices [1.2, 1.3] are extrapolated beyond the data and less reliable.
+- Sacramento (conventional) observed price range is [0.97, 1.54] - total volume for prices [0.8, 0.9] are extrapolated beyond the data and less reliable.
+- San Francisco (conventional) observed price range is [0.99, 1.67] - total volume for prices [0.8, 0.9] are extrapolated beyond the data and less reliable.
+
 <img width="786" height="246" alt="image" src="https://github.com/user-attachments/assets/325cb525-3f40-44d8-a785-05de575384f2" />
 
