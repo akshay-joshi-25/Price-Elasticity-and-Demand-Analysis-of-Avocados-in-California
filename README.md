@@ -25,6 +25,8 @@ This report focuses on analyzing avocado pricing data for the year 2020.
 # 🧮 Relationship between Average Price and Total Volume of Avocados sold by Market
 ## Conventional Avocados
 
+In the charts below, the correlation coefficient (r) quantifies the strength and direction of the relationship between Average Price and Total Volume.
+
 <img width="1072" height="638" alt="image" src="https://github.com/user-attachments/assets/bb868c4a-80cb-4479-b91e-2b723e58a920" />
 
 ### Las Vegas
@@ -64,4 +66,4 @@ This report focuses on analyzing avocado pricing data for the year 2020.
 
 ### Overall Interpretation
 
-All five graphs show a **negative relationship** between price and volume sold, indicating that demand generally decreases as prices increase. Price sensitivity is weakest in **Graph 1**, strongest in **Graph 3**, and moderate in **Graphs 2, 4, and 5**, suggesting that pricing strategies should be adjusted according to each market's responsiveness to price changes.
+All five graphs show a **negative relationship** between price and volume sold, indicating that demand generally decreases as prices increase. Price sensitivity is weakest in **Las Vegas**, strongest in **Sacramento**, and moderate in **Los Angeles, San Diego, and San Francisco**, suggesting that pricing strategies should be adjusted according to each market's responsiveness to price changes.
