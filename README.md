@@ -118,6 +118,49 @@ All five graphs show a **negative relationship** between price and volume sold, 
 
 <img width="1180" height="638" alt="image" src="https://github.com/user-attachments/assets/c78371e4-2d79-40ae-831f-aa3e33dca9cc" />
 
+### Las Vegas
+
+* Shows a **weak negative relationship** between price and volume sold.
+* The GAM curve declines gradually, indicating only a slight reduction in demand as prices increase.
+
+**Business interpretation:** This market exhibits **price inelasticity**, as demand changes relatively little in response to price increases.
+
+### Los Angeles
+
+* Displays a **moderate negative relationship** with a steeper decline at higher prices.
+* The GAM curve suggests demand falls more rapidly as prices rise.
+
+**Business interpretation:** This market exhibits **moderate price elasticity**, with consumers becoming more responsive to higher prices.
+
+### Sacramento
+
+* Shows a **strong nonlinear negative relationship**.
+* The GAM curve remains fairly flat at lower prices before dropping sharply at higher prices.
+
+**Business interpretation:** This market exhibits **price elasticity**, particularly at higher price levels, where demand decreases substantially with price increases.
+
+### San Diego
+
+* Exhibits a **moderately strong negative relationship**.
+* The GAM curve shows a consistent decline in sales as prices increase.
+
+**Business interpretation:** This market is **price elastic**, indicating that consumers respond noticeably to price changes.
+
+### San Francisco
+
+* Shows the **strongest negative relationship** among the five graphs.
+* The GAM curve declines sharply, especially at higher prices.
+
+**Business interpretation:** This market is **highly price elastic**, with demand decreasing significantly as prices rise.
+
+### Overall Interpretation
+
+All five graphs indicate a negative relationship between price and volume sold. However, the degree of price responsiveness differs across markets:
+
+* **Price Inelastic:** **Las Vegas**, where demand changes only slightly with price.
+* **Moderately Price Elastic:** **Los Angeles**, where demand becomes more responsive as prices increase.
+* **Price Elastic:** **Sacramento, San Diego, and San Francisco**, with **San Francisco** showing the highest price elasticity, indicating that consumers are highly sensitive to price increases.
+
 ## Organic Avocados
 
 <img width="1180" height="638" alt="image" src="https://github.com/user-attachments/assets/1817bb8f-675a-4c1c-bacd-e96119a175a9" />
