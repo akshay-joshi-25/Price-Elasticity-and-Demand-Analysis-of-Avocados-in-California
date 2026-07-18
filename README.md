@@ -226,4 +226,6 @@ Notes:
 - Los Angeles observed price range is [1.44, 2.10] - prices [1.3, 1.4] are extrapolated beyond the data and less reliable.
 - San Diego observed price range is [1.33, 2.34] - prices [1.3] are extrapolated beyond the data and less reliable.
 - San Francisco observed price range is [1.36, 2.26] - prices [1.3] are extrapolated beyond the data and less reliable.
-- 
+
+<img width="720" height="246" alt="image" src="https://github.com/user-attachments/assets/bf61224f-45de-4863-a3dc-bfeb31cc67e3" />
+
