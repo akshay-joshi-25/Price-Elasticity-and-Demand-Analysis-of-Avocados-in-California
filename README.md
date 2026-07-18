@@ -164,3 +164,46 @@ All five graphs indicate a negative relationship between price and volume sold. 
 ## Organic Avocados
 
 <img width="1180" height="638" alt="image" src="https://github.com/user-attachments/assets/1817bb8f-675a-4c1c-bacd-e96119a175a9" />
+
+### Las Vegas
+
+* Shows a **nonlinear relationship** between price and volume sold.
+* Sales decline as prices increase initially, then stabilise and recover slightly at higher prices.
+
+**Business interpretation:** This market exhibits **mixed price responsiveness**. Demand is **price elastic at lower prices** but becomes **more inelastic at higher prices**, suggesting that consumers remaining at higher prices are less sensitive to further price increases.
+
+### Los Angeles
+
+* Displays a **weak negative relationship**.
+* The GAM curve is nearly flat, indicating only a slight decline in sales as prices increase.
+
+**Business interpretation:** This market exhibits **price inelasticity**, with demand changing very little in response to price changes.
+
+### Sacramento
+
+* Shows a **highly nonlinear relationship** with large fluctuations.
+* The wide confidence interval at higher prices indicates substantial uncertainty due to limited observations.
+
+**Business interpretation:** Price elasticity is **difficult to determine reliably**. While demand appears highly responsive at certain price ranges, the high uncertainty means no strong conclusion can be drawn.
+
+### San Diego
+
+* Exhibits a **weak nonlinear negative relationship**.
+* Sales generally decline as prices increase, with a slight flattening in the middle of the price range.
+
+**Business interpretation:** This market is **mostly price inelastic**, with only modest changes in demand following price increases.
+
+### San Francisco
+
+* Shows a **highly nonlinear relationship** with considerable uncertainty at higher prices.
+* The GAM curve fluctuates substantially, and the confidence interval widens considerably.
+
+**Business interpretation:** The relationship between price and demand is **uncertain**. Although demand appears responsive at some price levels, there is insufficient evidence to confidently classify the market as price elastic or inelastic.
+
+### Overall Interpretation
+
+The markets exhibit varying degrees of price responsiveness:
+
+* **Price Inelastic:** **Los Angeles and San Diego**, where demand changes only slightly as prices increase.
+* **Mixed Elasticity:** **Las Vegas**, where demand is more elastic at lower prices but becomes less responsive at higher prices.
+* **Uncertain:** **Sacramento and San Francisco**, where highly nonlinear trends and wide confidence intervals suggest insufficient evidence to reliably determine price elasticity.
