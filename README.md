@@ -13,9 +13,9 @@ This report covers the following:
 
 # 📂 **Datasets**
 
-The dataset used for this report was publicly made available by the Hass Avocado Board (HAB), an industry-funded agriculture promotion group established in 2002 to increase the consumption and value of Hass avocados in the United States. You can access the dataset by clicking [here](https://www.kaggle.com/datasets/timmate/avocado-prices-2020?resource=download)
+The dataset used for this report was publicly made available by the Hass Avocado Board (HAB), an industry-funded agriculture promotion group established in 2002 to increase the consumption and value of Hass avocados in the United States. It functions under the supervision of the United States Department of Agriculture (USDA).
 
-This report focuses on analyzing avocado pricing data for the year 2020.
+This report focuses on analyzing avocado pricing data for the year 2020. You can access the dataset by clicking [here](https://www.kaggle.com/datasets/timmate/avocado-prices-2020?resource=download)
 
 # 🔧 **Tools Used**
 
