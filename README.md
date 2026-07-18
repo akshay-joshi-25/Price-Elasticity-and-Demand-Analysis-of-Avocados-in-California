@@ -207,3 +207,10 @@ The markets exhibit varying degrees of price responsiveness:
 * **Price Inelastic:** **Los Angeles and San Diego**, where demand changes only slightly as prices increase.
 * **Mixed Elasticity:** **Las Vegas**, where demand is more elastic at lower prices but becomes less responsive at higher prices.
 * **Uncertain:** **Sacramento and San Francisco**, where highly nonlinear trends and wide confidence intervals suggest insufficient evidence to reliably determine price elasticity.
+
+# 🧠 Evaluating How Change in the Average Price will affect Demand.
+
+## Conventional Avocados
+
+<img width="786" height="246" alt="image" src="https://github.com/user-attachments/assets/325cb525-3f40-44d8-a785-05de575384f2" />
+
