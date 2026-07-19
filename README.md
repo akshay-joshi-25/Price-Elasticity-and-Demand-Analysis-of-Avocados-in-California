@@ -201,4 +201,11 @@ Since some values are missing, the percentage changes can only be calculated whe
   * **decrease by 2.05%** in **Los Angeles**, **1.02%** in **San Diego** and **9.97%** in **San Francisco** but
   * **increase by 2.90%** in **Sacramento**
 
+<img width="706" height="246" alt="image" src="https://github.com/user-attachments/assets/c439181e-67c5-49e3-ae37-e8549c76127f" />
+
+Based on the calculations form the above table, I would recommend organic avocados to be sold at the followin prices to generate maximum revenue:
+* **$1.4** in **Las Vegas** and **San Francisco**
+* **$1.5** in **Sacramento**
+* **$1.8** in **Los Angeles** and **San Diego**
+
 You can access the Python code used to conduct the price elasticity & demand analysis by clicking [here.](https://github.com/akshay-joshi-25/Price-Elasticity-and-Demand-Analysis-of-Avocados-in-California/blob/main/Price%20Elasticity%20and%20Demand%20Analysis.ipynb)
