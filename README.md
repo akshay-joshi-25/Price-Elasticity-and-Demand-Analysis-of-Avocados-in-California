@@ -1,4 +1,4 @@
-<img width="644" height="381" alt="image" src="https://github.com/user-attachments/assets/3a94eb67-da25-4d2e-b7be-860496030616" /># 📊 Price Elasticity and Demand Analysis of Avocados in California
+# 📊 Price Elasticity and Demand Analysis of Avocados in California
 
 This report served two objectives:
 - Assess the price elasticity of conventional and organic avocados across seven markets: California, Las Vegas, Los Angeles, Sacramento, San Diego, San Francisco, and one additional market.
