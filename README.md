@@ -134,7 +134,7 @@ The markets exhibit varying degrees of price responsiveness:
 * **Mixed Elasticity:** **Las Vegas**, where demand is more elastic at lower prices but becomes less responsive at higher prices.
 * **Uncertain:** **Sacramento and San Francisco**, where highly nonlinear trends and wide confidence intervals suggest insufficient evidence to reliably determine price elasticity.
 
-# 🧠 Evaluating How Change in the Average Price will affect Demand.
+# 🧠 Evaluating How Change in the Average Price will affect Demand and Revenue.
 
 ## Conventional Avocados
 
@@ -164,6 +164,12 @@ Since some values are missing, the percentage changes can only be calculated whe
 
 * **If the average price increases from $1.20 to $1.30**, the total volume would
   * **decrease by 5.90%** in **Los Angeles**, **13.03%** in **Sacramento**, **6.73%** in **San Diego**, and **6.31%** in **San Francisco**.
+
+<img width="671" height="246" alt="image" src="https://github.com/user-attachments/assets/233167e3-a8f0-4061-b03d-b9c5b88f3917" />
+
+Based on the calculations form the above table, I would recommend conventional avocados to be sold at the followin prices to generate maximum revenue:
+* $1 in Las Vegas, and Sacramento.
+* $1.3 in Los Angeles, San Diego, and San Francisco.
 
 ## Organic Avocados
 
