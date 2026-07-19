@@ -1,4 +1,4 @@
-# 📊 Price Elasticity and Demand Analysis of Avocados in California
+<img width="644" height="381" alt="image" src="https://github.com/user-attachments/assets/3a94eb67-da25-4d2e-b7be-860496030616" /># 📊 Price Elasticity and Demand Analysis of Avocados in California
 
 This report served two objectives:
 - Assess the price elasticity of conventional and organic avocados across seven markets: California, Las Vegas, Los Angeles, Sacramento, San Diego, San Francisco, and one additional market.
@@ -174,12 +174,12 @@ Based on the calculations form the above table, I would recommend conventional a
 ## Organic Avocados
 
 Notes:
-- Las Vegas observed price range is [1.30, 1.65] - total volume for prices [1.7, 1.8] were not extrapolated as a result.
-- Los Angeles observed price range is [1.44, 2.10] - total volume for prices [1.3, 1.4] were not extrapolated as a result.
-- San Diego observed price range is [1.33, 2.34] - total volume for prices [1.3] were not extrapolated as a result.
-- San Francisco observed price range is [1.36, 2.26] - total volume for prices [1.3] were not extrapolated as a result.
+- Las Vegas observed price range is [1.30, 1.65] - total volume for prices beyond that range were not extrapolated.
+- Los Angeles observed price range is [1.44, 2.10] - total volume for prices beyond that range were not extrapolated.
+- San Diego observed price range is [1.33, 2.34] - total volume for prices beyond that range were not extrapolated.
+- San Francisco observed price range is [1.36, 2.26] - total volume for prices beyond that range were not extrapolated.
 
-<img width="671" height="246" alt="image" src="https://github.com/user-attachments/assets/63317b2c-08b8-415c-b31a-119ce744abd5" />
+<img width="671" height="397" alt="image" src="https://github.com/user-attachments/assets/3ee6520f-71fd-439c-b4ec-ca209946595c" />
 
 Since some values are missing, the percentage changes can only be calculated where consecutive data points are available.
 
@@ -201,11 +201,28 @@ Since some values are missing, the percentage changes can only be calculated whe
   * **decrease by 2.05%** in **Los Angeles**, **1.02%** in **San Diego** and **9.97%** in **San Francisco** but
   * **increase by 2.90%** in **Sacramento**
 
-<img width="706" height="246" alt="image" src="https://github.com/user-attachments/assets/c439181e-67c5-49e3-ae37-e8549c76127f" />
+* **If the average price increases from $1.80 to $1.90**, the total volume would
+  * **decrease by 2.12%** in **Los Angeles**, **2.34%** in **Sacramento**, **1.13%** in **San Diego**, and **0.45%** in **San Francisco**.
+
+* **If the average price increases from $1.90 to $2.00**, the total volume would
+  * **decrease by 2.07%** in **Los Angeles** and **1.22%** in **San Diego**, but
+  * **increase by 1.05%** in **San Francisco**.
+
+* **If the average price increases from $2.00 to $2.10**, the total volume would
+  * **decrease by 2.00%** in **Los Angeles**, **1.28%** in **San Diego**, and **7.23%** in **San Francisco**.
+
+* **If the average price increases from $2.10 to $2.20**, the total volume would
+  * **decrease by 1.01%** in **San Diego** and **12.44%** in **San Francisco**.
+
+* **If the average price increases from $2.20 to $2.30**, the total volume would
+  * **decrease by 1.27%** in **San Diego**.
+
+<img width="706" height="397" alt="image" src="https://github.com/user-attachments/assets/00ba5aeb-82f6-4031-9af5-ffdb8feae7e8" />
 
 Based on the calculations form the above table, I would recommend organic avocados to be sold at the followin prices to generate maximum revenue:
 * **$1.4** in **Las Vegas** and **San Francisco**
 * **$1.5** in **Sacramento**
-* **$1.8** in **Los Angeles** and **San Diego**
+* **$2.1** in **Los Angeles**
+* **$2.3** in **San Diego**
 
 You can access the Python code used to conduct the price elasticity & demand analysis by clicking [here.](https://github.com/akshay-joshi-25/Price-Elasticity-and-Demand-Analysis-of-Avocados-in-California/blob/main/Price%20Elasticity%20and%20Demand%20Analysis.ipynb)
