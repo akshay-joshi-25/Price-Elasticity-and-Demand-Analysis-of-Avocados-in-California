@@ -174,10 +174,11 @@ Based on the calculations form the above table, I would recommend conventional a
 ## Organic Avocados
 
 Notes:
-- Las Vegas observed price range is [1.30, 1.65] - total volume for prices beyond that range were not extrapolated.
-- Los Angeles observed price range is [1.44, 2.10] - total volume for prices beyond that range were not extrapolated.
-- San Diego observed price range is [1.33, 2.34] - total volume for prices beyond that range were not extrapolated.
-- San Francisco observed price range is [1.36, 2.26] - total volume for prices beyond that range were not extrapolated. 
+Total volume and revenue was not extrapolated beyond the observed price ranges for the following markets:
+* Las Vegas: [$1.30, $1.65]
+* Los Angeles: [$1.44, $2.10]
+* San Diego: [$1.33, $2.34]
+* San Francisco: [$1.36, $2.26]
 
 <img width="671" height="397" alt="image" src="https://github.com/user-attachments/assets/3ee6520f-71fd-439c-b4ec-ca209946595c" />
 
