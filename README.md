@@ -168,10 +168,10 @@ Since some values are missing, the percentage changes can only be calculated whe
 ## Organic Avocados
 
 Notes:
-- Las Vegas observed price range is [1.30, 1.65] - total volume for prices [1.7, 1.8] are extrapolated beyond the data and less reliable.
-- Los Angeles observed price range is [1.44, 2.10] - total volume for prices [1.3, 1.4] are extrapolated beyond the data and less reliable.
-- San Diego observed price range is [1.33, 2.34] - total volume for prices [1.3] are extrapolated beyond the data and less reliable.
-- San Francisco observed price range is [1.36, 2.26] - total volume for prices [1.3] are extrapolated beyond the data and less reliable.
+- Las Vegas observed price range is [1.30, 1.65] - total volume for prices [1.7, 1.8] were not extrapolated as a result.
+- Los Angeles observed price range is [1.44, 2.10] - total volume for prices [1.3, 1.4] were not extrapolated as a result.
+- San Diego observed price range is [1.33, 2.34] - total volume for prices [1.3] were not extrapolated as a result.
+- San Francisco observed price range is [1.36, 2.26] - total volume for prices [1.3] were not extrapolated as a result.
 
 <img width="671" height="246" alt="image" src="https://github.com/user-attachments/assets/63317b2c-08b8-415c-b31a-119ce744abd5" />
 
