@@ -168,8 +168,8 @@ Since some values are missing, the percentage changes can only be calculated whe
 <img width="671" height="246" alt="image" src="https://github.com/user-attachments/assets/233167e3-a8f0-4061-b03d-b9c5b88f3917" />
 
 Based on the calculations form the above table, I would recommend conventional avocados to be sold at the followin prices to generate maximum revenue:
-* $1 in Las Vegas, and Sacramento.
-* $1.3 in Los Angeles, San Diego, and San Francisco.
+* **$1** in **Las Vegas**, and **Sacramento**
+* **$1.3** in **Los Angeles**, **San Diego**, and **San Francisco**
 
 ## Organic Avocados
 
