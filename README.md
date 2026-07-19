@@ -139,31 +139,31 @@ The markets exhibit varying degrees of price responsiveness:
 ## Conventional Avocados
 
 Notes:
-- Las Vegas observed price range is [0.73, 1.14] - total volume for prices [1.2, 1.3] are extrapolated beyond the data and less reliable.
-- Sacramento observed price range is [0.97, 1.54] - total volume for prices [0.8, 0.9] are extrapolated beyond the data and less reliable.
-- San Francisco observed price range is [0.99, 1.67] - total volume for prices [0.8, 0.9] are extrapolated beyond the data and less reliable.
+- Las Vegas observed price range is [0.73, 1.14] - total volume for prices [1.2, 1.3] were not extrapolated as a result.
+- Sacramento observed price range is [0.97, 1.54] - total volume for prices [0.8, 0.9] were not extrapolated as a result.
+- San Francisco observed price range is [0.99, 1.67] - total volume for prices [0.8, 0.9] were not extrapolated as a result.
 
-<img width="786" height="246" alt="image" src="https://github.com/user-attachments/assets/325cb525-3f40-44d8-a785-05de575384f2" />
+<img width="757" height="245" alt="image" src="https://github.com/user-attachments/assets/81e0c205-732d-4449-829c-ea1c0bc0c347" />
+
+Since some values are missing, the percentage changes can only be calculated where consecutive data points are available.
 
 * **If the average price increases from $0.80 to $0.90**, the total volume would
   * **increase by 14.41%** in **Las Vegas**, but
-  * **decrease by 15.92%** in **Los Angeles**, **26.71%** in **Sacramento**, **7.78%** in **San Diego**, and **7.12%** in **San Francisco**.
+  * **decrease by 15.92%** in **Los Angeles** and **7.78%** in **San Diego**.
 
 * **If the average price increases from $0.90 to $1.00**, the total volume would
   * **increase by 0.13%** in **Las Vegas**, but
-  * **decrease by 12.30%** in **Los Angeles**, **35.89%** in **Sacramento**, **7.86%** in **San Diego**, and **7.66%** in **San Francisco**.
+  * **decrease by 12.30%** in **Los Angeles** and **7.86%** in **San Diego**.
 
 * **If the average price increases from $1.00 to $1.10**, the total volume would
   * **decrease by 28.13%** in **Las Vegas**, **4.37%** in **Los Angeles**, **24.69%** in **Sacramento**, **7.52%** in **San Diego**, and **8.30%** in **San Francisco**.
 
 * **If the average price increases from $1.10 to $1.20**, the total volume would
-  * **increase by 40.66%** in **Las Vegas** and **3.94%** in **Sacramento**, but
-  * **decrease by 1.18%** in **Los Angeles**, **6.81%** in **San Diego**, and **8.32%** in **San Francisco**.
+  * **decrease by 1.18%** in **Los Angeles**, **6.81%** in **San Diego** and **8.32%** in **San Francisco**, but
+  * **increase by 3.94%** in **Sacramento**
 
 * **If the average price increases from $1.20 to $1.30**, the total volume would
-  * **increase by 33.98%** in **Las Vegas**, but
   * **decrease by 5.90%** in **Los Angeles**, **13.03%** in **Sacramento**, **6.73%** in **San Diego**, and **6.31%** in **San Francisco**.
-
 
 ## Organic Avocados
 
