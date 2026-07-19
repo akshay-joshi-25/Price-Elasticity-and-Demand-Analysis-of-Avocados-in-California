@@ -138,12 +138,12 @@ The markets exhibit varying degrees of price responsiveness:
 
 ## Conventional Avocados
 
-Notes:
-- Las Vegas observed price range is [0.73, 1.14] - total volume for prices [1.2, 1.3] were not extrapolated as a result.
-- Sacramento observed price range is [0.97, 1.54] - total volume for prices [0.8, 0.9] were not extrapolated as a result.
-- San Francisco observed price range is [0.99, 1.67] - total volume for prices [0.8, 0.9] were not extrapolated as a result.
+Notes: Total volume and revenue was not extrapolated beyond the observed price ranges for the following markets:
+- Las Vegas: [$0.73, $1.14]
+- Sacramento: [$0.97, $1.54]
+- San Francisco: [$0.99, $1.67].
 
-<img width="757" height="245" alt="image" src="https://github.com/user-attachments/assets/81e0c205-732d-4449-829c-ea1c0bc0c347" />
+<img width="756" height="336" alt="image" src="https://github.com/user-attachments/assets/eb6e24d0-57d8-47d2-8b26-1359d99e2e89" />
 
 Since some values are missing, the percentage changes can only be calculated where consecutive data points are available.
 
@@ -165,11 +165,23 @@ Since some values are missing, the percentage changes can only be calculated whe
 * **If the average price increases from $1.20 to $1.30**, the total volume would
   * **decrease by 5.90%** in **Los Angeles**, **13.03%** in **Sacramento**, **6.73%** in **San Diego**, and **6.31%** in **San Francisco**.
 
-<img width="671" height="246" alt="image" src="https://github.com/user-attachments/assets/233167e3-a8f0-4061-b03d-b9c5b88f3917" />
+* **If the average price increases from $1.30 to $1.40**, the total volume would
+  * **increase by 17.30%** in **Sacramento** but
+  * **decrease by 3.48%** in **San Francisco**.
+
+* **If the average price increases from $1.40 to $1.50**, the total volume would
+  * **decrease by 4.64%** in **Sacramento** and **1.87%** in **San Francisco**.
+
+* **If the average price increases from $1.50 to $1.60**, the total volume would
+  * **decrease by 2.42%** in **San Francisco**.
+ 
+<img width="671" height="337" alt="image" src="https://github.com/user-attachments/assets/50692497-cdf8-43bf-9fe0-c1ffeb9da3e5" />
 
 Based on the calculations form the above table, I would recommend conventional avocados to be sold at the followin prices to generate maximum revenue:
-* **$1** in **Las Vegas**, and **Sacramento**
-* **$1.3** in **Los Angeles**, **San Diego**, and **San Francisco**
+* **$1** in **Las Vegas**
+* **$1.3** in **Los Angeles**, and **San Diego**
+* **$1.5** in **Sacramento**
+* **$1.6** in **San Francisco**
 
 ## Organic Avocados
 
